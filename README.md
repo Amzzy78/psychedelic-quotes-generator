@@ -18,10 +18,17 @@ Features
 Made with HTML, CSS and JavaScript
 ----------------------------------
 HTML:
+Create basic html structure.
+<header>
+Containing a div with a <h1>Psychedelic Quotes</h1> element displaying the title of the app.
+
+
+Inside body tag create div with an id called container....... COME BACK TO THIS.......
 
 
 CSS:
 Designed for mobile first using Flex containers and media queries.
+Style <header> using psychedelic font ohno-blazeface and colour palatte from a 60s theme by adobe.
 
 JS:
 

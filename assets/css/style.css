@@ -1,9 +1,17 @@
+@import url("https://use.typekit.net/tmj2lqy.css");
+
 * {
     box-sizing: border-box;
   }
 
+
   .header {
-    background-color: #9933cc;
+    font-family: ohno-blazeface, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    background-color: #6E31FF;
     color: #ffffff;
     padding: 15px;
   }
