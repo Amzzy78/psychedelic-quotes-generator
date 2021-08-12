@@ -18,7 +18,12 @@ Features
 Made with HTML, CSS and JavaScript
 ----------------------------------
 HTML:
+
+
+CSS:
 Designed for mobile first using Flex containers and media queries.
+
+JS:
 
 How it works
 -----------------------------------
