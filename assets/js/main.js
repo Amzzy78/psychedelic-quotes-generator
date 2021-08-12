@@ -1,3 +1,5 @@
+//Date and day elements
+
 let output1 = document.getElementById('output1');
 let date = document.getElementById('date');
 

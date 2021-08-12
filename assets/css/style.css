@@ -16,11 +16,15 @@
     padding: 15px;
   }
 
+  #logo {
+      font-size: 60px;
+  }
+
   /* Date  and time item*/
 
   #div {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
     background-color: #87FF6C;
     display: flex;
