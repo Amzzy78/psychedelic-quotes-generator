@@ -1,5 +1,6 @@
 Introduction
 -------------------------------
+Psychedelic Quotes is a random quote generator with a day and date feature, plus an image gallery.
 
 Features
 -------------------------------
