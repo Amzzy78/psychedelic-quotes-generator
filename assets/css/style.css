@@ -17,7 +17,7 @@
   }
 
   #logo {
-      font-size: 60px;
+      font-size: 50px;
   }
 
   /* Date  and time item*/
@@ -52,8 +52,8 @@
   .flex-container {
     display: flex;
     flex-direction: row;
-    /*font-size: 30px;
-    text-align: center;*/
+    font-size: 30px;
+    text-align: center;
     height: 800px;
     background-color: #34D4E8;
     
@@ -67,10 +67,42 @@
   
 
   .flex-item-right {
-    background-color: dodgerblue;
+    background-color: black;
     padding: 10px;
     flex: 50%;
   }
+  /*Style quote generator and button*/
+
+  #container {
+    background-color: #6E31FF;
+    border: 7px solid white;
+    
+    height: 400px;
+    width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: gainsboro;
+
+}
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: black;
+}
+
+
+
+
+
+
 
   .footer {
     background-color: black;
