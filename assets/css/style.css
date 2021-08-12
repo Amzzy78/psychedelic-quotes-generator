@@ -19,14 +19,15 @@
   .flex-container {
     display: flex;
     flex-direction: row;
-    font-size: 30px;
-    text-align: center;
-    background-color: aqua;
+    /*font-size: 30px;
+    text-align: center;*/
+    height: 800px;
+    background-color: #34D4E8;
     
   }
 
   .flex-item-left {
-    background-color: #f1f1f1;
+    background-color: #87FF6C;
     padding: 10px;
     flex: 50%;
   }
