@@ -28,3 +28,23 @@
     padding: 10px;
     flex: 50%;
   }
+
+  .footer {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+  }
+
+  .img {
+      background-color: brown;
+  }
+
+
+  /* Responsive layout  */
+@media (max-width: 800px) {
+    .flex-item-right, .flex-item-left {
+      flex: 100%;
+    }
+  }
