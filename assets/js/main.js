@@ -34,3 +34,19 @@ switch (day){
 
 output1.innerHTML = day;
 date.innerHTML = ndate;
+
+
+//Colors array
+let colors = ['blue', 'yellow', 'green', 'red', 'purple', 'orange'];
+//Get button
+let btn = document.getElementById('btn');
+//add event listener
+btn.addEventListener('click', function(){
+    //randomiser
+    var randomColor = colors[Math.floor(Math.random() * (colors.length))]
+    //get container
+    let container = document.getElementById('container');
+
+    container.style.background = randomColor;
+})
+let output = document.getElementById('output');

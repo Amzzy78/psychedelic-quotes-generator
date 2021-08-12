@@ -4,6 +4,10 @@
     box-sizing: border-box;
   }
 
+  body {
+    background-color: #34D4E8;
+  }
+
 
   .header {
     font-family: ohno-blazeface, sans-serif;
