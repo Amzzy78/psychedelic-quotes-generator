@@ -37,7 +37,7 @@ date.innerHTML = ndate;
 
 
 //Colors array to quotes container
-let colors = ['blue', 'yellow', 'green', 'red', 'purple', 'orange'];
+let colors = ['#CD5C5C', '#FF5733'];
 //Get button
 let btn = document.getElementById('btn');
 //add event listener
@@ -47,13 +47,16 @@ btn.addEventListener('click', function(){
     //get container
     let container = document.getElementById('container');
 
-    container.style.background = randomColor;
+    container.style.backgroundColor = randomColor;
+    //container.style.background = randomColor;
+
 })
 let output = document.getElementById('output');
 
+
 //Quotes array
 
-let quotes = [
+let quotesold = [
     '"Life lived in the absence of the psychedelic experience that primordial shamanism is based on is life trivialized, life denied, life enslaved to the ego." — Terence McKenna',
     '"Psychedelics prove to you that there/’s more than one way of seeing the world." — Jesse Lawler',
     '"That’s why I always recommend a psychedelic experience because it makes you realize that all you’ve learned is in fact just learned and not necessarily the truth." — Bill Hicks',
@@ -67,9 +70,30 @@ let quotes = [
     '"Enlightenment is just another word for feeling comfortable with being a completely ordinary person." — Veronique Vienne',
     '"Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy." — Albert Einstein'
     ];
+
+    let quotes = [
+        {
+            quoteText: "Enlightenment is just another word for feeling comfortable with being a completely ordinary person.",
+            quoteAuthor: "Veronique Vienne",
+            quoteImage: "assets/images/1.png",
+
+        }, 
+        {
+            quoteText: "Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy.",
+            quoteAuthor: "Albert Einstein",
+            quoteImage: "assets/images/2.png",
+        }
+
+    ];
+
     
     btn.addEventListener('click', function(){
-        var randomQuote = quotes[Math.floor(Math.random() * (quotes.length))]
+        let randomNumber = Math.floor(Math.random() * (quotes.length));
+        let randomQuote = quotes[randomNumber]['quoteText'];
+        let quoteImage =  quotes[randomNumber]['quoteImage'];
+        let quoteAuthor = quotes[randomNumber]['quoteAuthor'];
+        //let quoteMood explore this//
         output.innerHTML = randomQuote;
+        console.log(randomQuote + " " + quoteAuthor + " " + quoteImage);
     })
     
