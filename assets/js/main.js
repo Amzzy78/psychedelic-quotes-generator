@@ -19,7 +19,7 @@ switch (day){
         day = "Tuesday";
         break;
     case 3:
-        day = "Wednsday"
+        day = "Wednsday";
         break;
     case 4:
         day = "Thursday";
@@ -43,14 +43,14 @@ let btn = document.getElementById('btn');
 //add event listener
 btn.addEventListener('click', function(){
     //randomiser
-    var randomColor = colors[Math.floor(Math.random() * (colors.length))]
+    var randomColor = colors[Math.floor(Math.random() * (colors.length))];
     //get container
     let container = document.getElementById('container');
 
     container.style.backgroundColor = randomColor;
     //container.style.background = randomColor;
 
-})
+});
 let output = document.getElementById('output');
 
 
@@ -89,11 +89,11 @@ let quotesold = [
     
     btn.addEventListener('click', function(){
         let randomNumber = Math.floor(Math.random() * (quotes.length));
-        let randomQuote = quotes[randomNumber]['quoteText'];
-        let quoteImage =  quotes[randomNumber]['quoteImage'];
-        let quoteAuthor = quotes[randomNumber]['quoteAuthor'];
+        let randomQuote = quotes[randomNumber]['quote.Text'];
+        let quoteImage =  quotes[randomNumber]['quote.Image'];
+        let quoteAuthor = quotes[randomNumber]['quote.Author'];
         //let quoteMood explore this//
         output.innerHTML = randomQuote;
         console.log(randomQuote + " " + quoteAuthor + " " + quoteImage);
-    })
+    });
     
