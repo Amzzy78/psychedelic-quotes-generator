@@ -1,34 +1,76 @@
 @import url("https://use.typekit.net/tmj2lqy.css");
 
 * {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
 
-  body {
-    background-color: #34D4E8;
-  }
+body {
+  background-color: whitesmoke;
+}
 
+.header {
+  font-family: ohno-blazeface, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: large;
+  text-align: center;
+  background-color: #6E31FF;
+  color: #ffffff;
+  padding: 15px;
+}
 
-  .header {
-    font-family: ohno-blazeface, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: large;
-    text-align: center;
-    background-color: #6E31FF;
-    color: #ffffff;
-    padding: 15px;
-  }
+#logo {
+  font-size: 40px;
+}
 
-  #logo {
-      font-size: 50px;
-  }
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  text-align: center;
+  height: 800px;
+  background-color: #34D4E8;
+}
 
-  /* Date  and time item*/
+/*Style quote generator and button*/
 
-  #div {
-    height: 150px;
-    width: 150px;
+#container {
+  background-color: #6E31FF;
+  border: 7px solid #87FF6C;
+  height: 400px;
+  width: 500px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#btn {
+  margin: 50px auto;
+  height: 50px;
+  width: 250px;
+  font-size: 22px;
+  background-color: whitesmoke;
+  color: #6E31FF;
+}
+
+#output {
+  margin: 25px auto;
+  font-size: 26px;
+  color: whitesmoke;
+}
+
+.footer {
+  background-color: #6E31FF;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+}
+
+/* Date  and time item*/
+
+#div {
+    height: 70px;
+    width: 70px;
     border-radius: 50%;
     background-color: #87FF6C;
     display: flex;
@@ -44,80 +86,29 @@
 }
 
 #output1 {
-    font-size: 25px;
+    font-size: 10px;
     text-align: center;
 }
 
 #date {
-    font-size: 25px;
+    font-size: 10px;
     text-align: center;
 }
 
-  .flex-container {
-    display: flex;
-    flex-direction: row;
-    font-size: 30px;
-    text-align: center;
-    height: 800px;
-    background-color: #34D4E8;
-    
-  }
 
-  .flex-item-left {
+  /*.flex-item-left {
     background-color: #87FF6C;
     padding: 10px;
     flex: 50%;
   }
-  
-
   .flex-item-right {
     background-color: black;
     padding: 10px;
     flex: 50%;
   }
-  /*Style quote generator and button*/
 
-  #container {
-    background-color: #6E31FF;
-    border: 7px solid white;
-    
-    height: 400px;
-    width: 500px;
-    margin: 10px auto;
-    text-align: center;
-}
-
-#btn {
-    margin: 50px auto;
-    height: 50px;
-    width: 250px;
-    font-size: 22px;
-    background-color: gainsboro;
-
-}
-
-#output {
-    margin: 25px auto;
-    font-size: 26px;
-    color: black;
-}
-
-
-
-
-
-
-
-
-
-  .footer {
-    background-color: black;
-    color: #ffffff;
-    text-align: center;
-    font-size: 12px;
-    padding: 15px;
-  }
-
+ 
+ 
   .img {
       background-color: brown;
   }
@@ -125,7 +116,11 @@
 
   /* Responsive layout  */
 @media (max-width: 800px) {
-    .flex-item-right, .flex-item-left {
-      flex: 100%;
-    }
+
+  .flex-item-right,
+  .flex-item-left {
+    flex: 100%;
   }
+
+}
+
