@@ -37,17 +37,18 @@ body {
 #container {
   background-color: #6E31FF;
   border: 7px solid #87FF6C;
-  height: 400px;
+  height: 600px;
   width: 500px;
   margin: 10px auto;
   text-align: center;
 }
-
 #btn {
   margin: 50px auto;
   height: 50px;
   width: 250px;
   font-size: 22px;
+  font-family: ohno-blazeface, sans-serif;
+  font-style: normal;
   background-color: whitesmoke;
   color: #6E31FF;
 }
@@ -55,7 +56,9 @@ body {
 #output {
   margin: 25px auto;
   font-size: 26px;
-  color: whitesmoke;
+  font-family: ohno-blazeface, sans-serif;
+  font-style: oblique;
+  color: black;
 }
 
 .footer {
@@ -69,34 +72,34 @@ body {
 /* Date  and time item*/
 
 #div {
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
-    background-color: #87FF6C;
-    display: flex;
-    margin: 5px auto;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 5px solid #6E31FF;
-    font-family: ohno-blazeface, sans-serif;
-    font-weight: 100;
-    font-style: normal;
-    color: #6E31FF;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  background-color: #87FF6C;
+  display: flex;
+  margin: 5px auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #6E31FF;
+  font-family: ohno-blazeface, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  color: #6E31FF;
 }
 
 #output1 {
-    font-size: 10px;
-    text-align: center;
+  font-size: 10px;
+  text-align: center;
 }
 
 #date {
-    font-size: 10px;
-    text-align: center;
+  font-size: 10px;
+  text-align: center;
 }
 
 
-  /*.flex-item-left {
+/*.flex-item-left {
     background-color: #87FF6C;
     padding: 10px;
     flex: 50%;

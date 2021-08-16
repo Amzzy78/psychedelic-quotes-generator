@@ -37,7 +37,7 @@ date.innerHTML = ndate;
 
 
 //Colors array to quotes container
-let colors = ['#CD5C5C', '#FF5733'];
+let colors = ['#fd00ff', '#fdff00', '#00ff38', '#00f9ff', '#3c00ff'];
 //Get button
 let btn = document.getElementById('btn');
 //add event listener
@@ -57,27 +57,30 @@ let output = document.getElementById('output');
 //Quotes array
     let quotes = [
         {
-            quoteText: "Enlightenment is just another word for feeling comfortable with being a completely ordinary person.",
-            quoteAuthor: "Veronique Vienne",
-            quoteImage: "assets/images/1.png",
+            quoteText: "Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy.",
+            quoteAuthor: "Professor Stan Grof",
+            quoteImage: "assets/images/prof-stan-grof.jpg",
 
         }, 
         {
-            quoteText: "Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy.",
-            quoteAuthor: "Albert Einstein",
-            quoteImage: "assets/images/2.png",
+            quoteText: "It gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation... I think that in human evolution it has never been as necessary to have this substance LSD. It is just a tool to turn us into what we are supposed to be.",
+            quoteAuthor: "Albert Hofmann",
+            quoteImage: "assets/images/albert-hofmann.jpg",
         }
 
     ];
 
     
+   
     btn.addEventListener('click', function(){
-        let randomNumber = Math.floor(Math.random() * (quotes.length));
-        let randomQuote = quotes[randomNumber]['quoteText'];
+     let randomNumber = Math.floor(Math.random() * (quotes.length));
+       let randomQuote = quotes[randomNumber]['quoteText'];
         let quoteImage =  quotes[randomNumber]['quoteImage'];
         let quoteAuthor = quotes[randomNumber]['quoteAuthor'];
-        //let quoteMood explore this//
-        output.innerHTML = randomQuote;
+        
+       output.innerHTML = randomQuote;
         console.log(randomQuote + " " + quoteAuthor + " " + quoteImage);
-    });
+   });
+
+ 
     

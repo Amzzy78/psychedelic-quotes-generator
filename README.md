@@ -68,6 +68,7 @@ Credits
    --------
    colour palate credit:
    https://color.adobe.com/The-60s-color-theme-1704263/
+   https://www.color-hex.com/color-palette/5784
 
    fonts credit:
    https://www.fontspace.com/category/psychedelic
