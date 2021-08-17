@@ -60,6 +60,12 @@ body {
   font-style: oblique;
   color: black;
 }
+img{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+}
+
 
 .footer {
   background-color: #6E31FF;
@@ -99,29 +105,11 @@ body {
 }
 
 
-/*.flex-item-left {
-    background-color: #87FF6C;
-    padding: 10px;
-    flex: 50%;
-  }
-  .flex-item-right {
-    background-color: black;
-    padding: 10px;
-    flex: 50%;
-  }
-
- 
- 
-  .img {
-      background-color: brown;
-  }
-
 
   /* Responsive layout  */
 @media (max-width: 800px) {
 
-  .flex-item-right,
-  .flex-item-left {
+  .flex-container, .header {
     flex: 100%;
   }
 

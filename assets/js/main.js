@@ -57,20 +57,22 @@ let output = document.getElementById('output');
 //Quotes array
     let quotes = [
         {
-            quoteText: "Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy.",
-            quoteAuthor: "Professor Stan Grof",
-            quoteImage: "assets/images/prof-stan-grof.jpg",
+            quoteText: '"Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy."',
+            quoteAuthor: '"Professor Stan Grof"',
+            quoteImage: '"assets/images/prof-stan-grof.jpg"',
 
         }, 
         {
-            quoteText: "It gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation... I think that in human evolution it has never been as necessary to have this substance LSD. It is just a tool to turn us into what we are supposed to be.",
-            quoteAuthor: "Albert Hofmann",
-            quoteImage: "assets/images/albert-hofmann.jpg",
+            quoteText: '"It gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation... I think that in human evolution it has never been as necessary to have this substance LSD. It is just a tool to turn us into what we are supposed to be."',
+            quoteAuthor: '"Albert Hofmann"',
+            quoteImage: '"assets/images/albert-hofmann.jpg"',
         }
 
     ];
 
+   
     
+
    
     btn.addEventListener('click', function(){
      let randomNumber = Math.floor(Math.random() * (quotes.length));
@@ -78,9 +80,14 @@ let output = document.getElementById('output');
         let quoteImage =  quotes[randomNumber]['quoteImage'];
         let quoteAuthor = quotes[randomNumber]['quoteAuthor'];
         
-       output.innerHTML = randomQuote;
+       output.innerHTML = randomQuote + " " + quoteAuthor;
+       
         console.log(randomQuote + " " + quoteAuthor + " " + quoteImage);
    });
 
+
+   
+  
+ 
  
     

@@ -84,6 +84,9 @@ Credits
    learn-webdev-
    https://www.youtube.com/channel/UCCcK9DoXcPYcUYU2aSR7zzQ
 
+   Psychedelic medicine: a re-emerging therapeutic paradigm
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/
+
 
 
 
