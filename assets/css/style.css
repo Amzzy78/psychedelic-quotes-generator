@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: black;
   
  
 }
@@ -30,7 +30,7 @@ body {
   flex-direction: row;
   font-size: 30px;
   text-align: center;
-  height: 700px;
+  height: 680px;
   background-image: url(/assets/images/Neon-Painted-Woman.jpg);
   
   /*background-color: #34D4E8;*/
