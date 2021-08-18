@@ -78,6 +78,8 @@ Credits
    https://thethirdwave.co/psychedelic-quotes/
    Psychedelic medicine: a re-emerging therapeutic paradigm
    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/
+   https://www.vulture.com/2017/06/cary-grants-lsd-therapy-the-inside-story.html
+   https://quotestats.com/topic/quotes-about-lsd/
 
    css credits:
    https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_responsive
