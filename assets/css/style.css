@@ -29,7 +29,7 @@ body {
   font-size: 30px;
   text-align: center;
   height: 800px;
-  background-color: #34D4E8;
+  /*background-color: #34D4E8;*/
 }
 
 /*Style quote generator and button*/
@@ -72,7 +72,7 @@ body {
 #gallery {
   height: 350px;
   width: 350px;
-  background-color: white;
+  background-color: #34D4E8;
   margin: 100px auto;
   text-align: 5px solid black;
 
