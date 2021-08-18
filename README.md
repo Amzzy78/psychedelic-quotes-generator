@@ -81,6 +81,10 @@ Credits
    https://www.vulture.com/2017/06/cary-grants-lsd-therapy-the-inside-story.html
    https://quotestats.com/topic/quotes-about-lsd/
 
+   Images
+   -------------
+   https://stock.adobe.com/ie/search/free?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=0&filters%5Bcontent_type%3Atemplate%5D=0&filters%5Bcontent_type%3A3d%5D=0&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bcontent_type%3Aimage%5D=1&filters%5Bfree_collection%5D=1&filters%5Border%5D=relevance&k=psychedelic&order=relevance&safe_search=1&search_type=asset-type-change&search_page=1&get_facets=0
+
    css credits:
    https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_responsive
 

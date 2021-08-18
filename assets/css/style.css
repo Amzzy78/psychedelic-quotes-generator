@@ -41,7 +41,7 @@ body {
 #container {
   background-color: #6E31FF;
   border: 7px solid #87FF6C;
-  height: 690px;
+  height: 900px;
   width: 500px;
   margin: 10px auto;
   text-align: center;
@@ -78,15 +78,18 @@ body {
 #gallery {
   height: 350px;
   width: 350px;
-  background-color: #34D4E8;
+  background-color: black;
   margin: 100px auto;
   text-align: 5px solid black;
+  
 
 }
 
 #image {
   height: 350px;
   width: 350px;
+  border-radius: 50%;
+  
 }
 
 .btn2 {
@@ -94,6 +97,8 @@ body {
   height: 50px;
   width: 150px;
   margin: 10px;
+  background-color: #87FF6C;
+  font-family: ohno-blazeface, sans-serif;
   
 }
 

@@ -89,13 +89,8 @@ let quotes = [
     },
 
     {
-        quoteText: '“After having personally conducted over the last fifty years more than four thousand psychedelic sessions, I have developed great awe and respect for these compounds and their enormous potential, both positive and negative. They are powerful tools and, like any tool, they can be used skillfully, ineptly, or destructively. The result will be critically dependent on the set and setting.”',
-        quoteAuthor: 'Professor Stanislav Grof',
-    },
-
-    {
         quoteText: '"It is true that my discovery of LSD was a chance discovery, but it was the outcome of planned experiments and these experiments took place in the framework of systematic pharmaceutical, chemical research. It could better be described as serendipity."',
-        quoteAuthor: 'Dr. Albert Hofmann',
+        quoteAuthor: 'Dr. Albert Hofmann'
     }
 
 ];
@@ -115,7 +110,7 @@ btn.addEventListener('click', function () {
 var prev = document.getElementById('previous');
 var next = document.getElementById('next');
 
-var arr = ["assets/images/albert-hofmann.jpg", "assets/images/prof-stan-grof.jpg"];
+var arr = ["assets/images/squares.jpg", "assets/images/planets.jpg", "assets/images/third-eye.jpg",  "assets/images/geometric.jpg",  "assets/images/glitter-lady.jpg", "assets/images/coral.jpg", "assets/images/tribal-man.jpg", "assets/images/swirls-colour.jpg", "assets/images/mushrooms.jpg", "assets/images/painted-lady.jpg"];
 
 var i = 0;
 
