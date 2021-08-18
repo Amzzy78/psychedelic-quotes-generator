@@ -100,10 +100,6 @@ let quotes = [
 
 ];
 
-
-
-
-
 btn.addEventListener('click', function () {
     let randomNumber = Math.floor(Math.random() * (quotes.length));
     let randomQuote = quotes[randomNumber]['quoteText'];
@@ -114,3 +110,31 @@ btn.addEventListener('click', function () {
 
     console.log(randomQuote + " " + quoteAuthor);
 });
+
+//images
+var prev = document.getElementById('previous');
+var next = document.getElementById('next');
+
+var arr = ["assets/images/albert-hofmann.jpg", "assets/images/prof-stan-grof.jpg"];
+
+var i = 0;
+
+//next btn
+next.addEventListener('click', function(){
+   i++;
+   if(i > arr.length - 1){
+      i = 0;
+   }
+   document.getElementById('image').src = arr[i];
+
+})
+//prev btn
+previous.addEventListener('click', function(){
+    i--;
+   if(i < 0){
+       i = arr.length - 1;
+   }
+    document.getElementById('image').src = arr[i];
+    
+
+})
