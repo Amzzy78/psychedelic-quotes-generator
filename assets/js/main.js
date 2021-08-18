@@ -58,15 +58,51 @@ let output = document.getElementById('output');
     let quotes = [
         {
             quoteText: '"Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy."',
-            quoteAuthor: '"Professor Stan Grof"',
-            quoteImage: '"assets/images/prof-stan-grof.jpg"',
+            quoteAuthor: 'Professor Stanislav Grof',
+            //quoteImage: '"assets/images/prof-stan-grof.jpg"',
 
         }, 
         {
             quoteText: '"It gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation... I think that in human evolution it has never been as necessary to have this substance LSD. It is just a tool to turn us into what we are supposed to be."',
-            quoteAuthor: '"Albert Hofmann"',
-            quoteImage: '"assets/images/albert-hofmann.jpg"',
-        }
+            quoteAuthor: 'Albert Hofmann',
+            //quoteImage: '"assets/images/albert-hofmann.jpg"',
+        },
+        {
+            quoteText: 
+            quoteAuthor:     
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
+        {
+            quoteText: 
+            quoteAuthor:    
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
+        {
+            quoteText: 
+            quoteAuthor:   
+        },
 
     ];
 
@@ -77,12 +113,12 @@ let output = document.getElementById('output');
     btn.addEventListener('click', function(){
      let randomNumber = Math.floor(Math.random() * (quotes.length));
        let randomQuote = quotes[randomNumber]['quoteText'];
-        let quoteImage =  quotes[randomNumber]['quoteImage'];
         let quoteAuthor = quotes[randomNumber]['quoteAuthor'];
+        //let quoteImage =  quotes[randomNumber]['quoteImage'];
         
        output.innerHTML = randomQuote + " " + quoteAuthor;
        
-        console.log(randomQuote + " " + quoteAuthor + " " + quoteImage);
+        console.log(randomQuote + " " + quoteAuthor);
    });
 
 

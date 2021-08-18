@@ -76,6 +76,8 @@ Credits
 
    quotes credit:
    https://thethirdwave.co/psychedelic-quotes/
+   Psychedelic medicine: a re-emerging therapeutic paradigm
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/
 
    css credits:
    https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_responsive
@@ -84,8 +86,7 @@ Credits
    learn-webdev-
    https://www.youtube.com/channel/UCCcK9DoXcPYcUYU2aSR7zzQ
 
-   Psychedelic medicine: a re-emerging therapeutic paradigm
-   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/
+   
 
 
 
