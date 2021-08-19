@@ -143,38 +143,3 @@ body {
 }
 
 
-
-/* Responsive layout  */
-
-/* Small Desktops */
-/*@media (min-width: 768px) and (max-width: 1096px) {
-
-  .header {
-    margin-top: 0px;
-    padding-top: 0px;
-  }
-  }*/
-
-  
-
-
-
-/*@media (max-width: 800px) {
-
-  .flex-container,
-  .header {
-    flex: 100%;
-  }
-
-}
-
-@media (max-width: 600px) {
-  body {
-    background-color: black; 
-  }
-  .header {
-    flex: 100%;
-  }
-
-  
-}
