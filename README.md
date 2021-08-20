@@ -1,6 +1,7 @@
-Introduction
--------------------------------
-Psychedelic Quotes is a random quote generator with a day and date feature, plus an image gallery.
+# Psychedelic Quotes
+
+## Psychedelic Quotes is a random quote generator displaying quotes from professionals in the field of Consciousness Research through the medium of psychedlic chemical compounds. As we are currently in the era of a psychedlic renaissance in regards to the 
+with a day and date feature, plus an image gallery.
 
 Features
 -------------------------------

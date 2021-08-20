@@ -73,30 +73,36 @@ body {
 
 /* Gallery */
 #gallery {
-  height: 350px;
-  width: 350px;
+  height: 275px;
+  width: 275px;
   background-color: black;
-  margin: 100px auto;
+  margin: 50px auto;
   /*text-align: 5px solid black;*/
   
 
 }
 
 #image {
-  height: 350px;
-  width: 350px;
+  height: 270px;
+  width: 270px;
   border-radius: 50%;
   
 }
 
 .btn2 {
-  /*margin: 0 auto;*/
+  margin: 0 auto;
   height: 50px;
-  width: 150px;
-  margin: 10px;
+  width: 90px;
+  margin: 20px;
   background-color: #87FF6C;
   font-family: ohno-blazeface, sans-serif;
   
+}
+
+h2 {
+  text-align: center;
+  font-family: ohno-blazeface, sans-serif;
+  color: red;
 }
 
 
@@ -109,7 +115,7 @@ body {
   color: #ffffff;
   text-align: center;
   font-size: 12px;
-  padding: 5px;
+  padding: 2px;
 }
 
 #div {
@@ -141,9 +147,14 @@ body {
 
 
 /* Responsive layout - makes a two column-layout instead of four columns */
-/*@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
   .flex-container, .header, .container {
     flex: 100%;
     max-width: 100%;
+  }
+  #gallery{
+    flex: 100%;
+    max-width: 100%;
+
   }
 }
