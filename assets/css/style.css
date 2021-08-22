@@ -2,11 +2,12 @@
 
 * {
   box-sizing: border-box;
+  
 }
 
 body {
-  background-color: black;
-  font-display: swap;
+ background-color: white;
+  
   
  
 }
@@ -15,7 +16,7 @@ body {
   font-family: ohno-blazeface, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: large;
+  font-size: 10vw;
   text-align: center;
   background-color: #6E31FF;
   color: #ffffff;
@@ -29,7 +30,7 @@ body {
 .flex-container {
   display: flex;
   flex-direction: row;
-  font-size: 30px;
+  /*font-size: 30px;*/
   text-align: center;
   height: 680px;
   background: url( ../images/Neon-Painted-Woman.jpg) 60vw;
@@ -49,6 +50,7 @@ body {
   width: 500px;
   margin: 10px auto;
   text-align: center;
+  font-size: 10vw;
 }
 
 #btn {
@@ -66,6 +68,7 @@ body {
   margin: 25px auto;
   font-size: 26px;
   font-family: ohno-blazeface, sans-serif;
+  font-display: swap;
   font-style: oblique;
   color: black;
 }
@@ -76,8 +79,9 @@ body {
 #gallery {
   height: 275px;
   width: 275px;
-  background-color: black;
   margin: 50px auto;
+  padding-top: 150px;
+  padding-bottom: 250px;
   /*text-align: 5px solid black;*/
   
 

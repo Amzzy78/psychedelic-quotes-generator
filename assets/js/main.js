@@ -110,7 +110,7 @@ btn.addEventListener('click', function () {
 var prev = document.getElementById('previous');
 var next = document.getElementById('next');
 
-var arr = ["assets/images/squares.jpg", "assets/images/third-eye.jpg", "assets/images/mushys.jpg", "assets/images/glitter-lady.jpg", "assets/images/coral.jpg", "assets/images/tribal-man.jpg", "assets/images/swirls-colour.jpg", "assets/images/trip.jpg", "assets/images/mushrooms.jpg", "assets/images/painted-lady.jpg", "assets/images/rainbow-colours.jpg"];
+var arr = ["assets/images/squares.jpg", "assets/images/third-eye.jpg", "assets/images/mushys.jpg", "assets/images/glitter-lady.jpg", "assets/images/coral.jpg", "assets/images/tribal-man.jpg", "assets/images/swirls-colour.jpg", "assets/images/trip.jpg", "assets/images/mushrooms.jpg", "assets/images/rainbow-colours.jpg"];
 
 var i = 0;
 
