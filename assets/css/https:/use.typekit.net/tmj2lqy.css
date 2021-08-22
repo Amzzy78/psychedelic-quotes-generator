@@ -1,0 +1,57 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * ohno-blazeface:
+ *   - http://typekit.com/eulas/00000000000000007735ce33
+ *   - http://typekit.com/eulas/00000000000000007735ce46
+ *   - http://typekit.com/eulas/00000000000000007735ce60
+ *   - http://typekit.com/eulas/00000000000000007735ce65
+ *   - http://typekit.com/eulas/00000000000000007735ce6a
+ *   - http://typekit.com/eulas/00000000000000007735ce6d
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-08-16 12:19:21 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=tmj2lqy&ht=tk&f=42661.42665.42669.43472.43475.43478&a=61421027&app=typekit&e=css");
+
+@font-face {
+font-family:"ohno-blazeface";
+src:url("https://use.typekit.net/af/4e163f/00000000000000007735ce33/30/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/4e163f/00000000000000007735ce33/30/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/4e163f/00000000000000007735ce33/30/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"ohno-blazeface";
+src:url("https://use.typekit.net/af/d9eb6b/00000000000000007735ce46/30/l?subset_id=2&fvd=n1&v=3") format("woff2"),url("https://use.typekit.net/af/d9eb6b/00000000000000007735ce46/30/d?subset_id=2&fvd=n1&v=3") format("woff"),url("https://use.typekit.net/af/d9eb6b/00000000000000007735ce46/30/a?subset_id=2&fvd=n1&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;
+}
+
+@font-face {
+font-family:"ohno-blazeface";
+src:url("https://use.typekit.net/af/cfafae/00000000000000007735ce60/30/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/cfafae/00000000000000007735ce60/30/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/cfafae/00000000000000007735ce60/30/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"ohno-blazeface";
+src:url("https://use.typekit.net/af/2817bf/00000000000000007735ce65/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3") format("woff2"),url("https://use.typekit.net/af/2817bf/00000000000000007735ce65/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3") format("woff"),url("https://use.typekit.net/af/2817bf/00000000000000007735ce65/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:100;
+}
+
+@font-face {
+font-family:"ohno-blazeface";
+src:url("https://use.typekit.net/af/13a3a8/00000000000000007735ce6a/30/l?subset_id=2&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/13a3a8/00000000000000007735ce6a/30/d?subset_id=2&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/13a3a8/00000000000000007735ce6a/30/a?subset_id=2&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"ohno-blazeface";
+src:url("https://use.typekit.net/af/2a2795/00000000000000007735ce6d/30/l?subset_id=2&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/2a2795/00000000000000007735ce6d/30/d?subset_id=2&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/2a2795/00000000000000007735ce6d/30/a?subset_id=2&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+.tk-ohno-blazeface { font-family: "ohno-blazeface",sans-serif; }
