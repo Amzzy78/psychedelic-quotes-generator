@@ -1,6 +1,6 @@
 # Psychedelic Quotes
 
-## Psychedelic Quotes website is a random quote generator displaying quotes from professionals in the field of Psychiatry and Consciousness Research through the medium of psychedlic chemical compounds. As we are currently in the era of a psychedlic renaissance in regards to the re-evaluation of the potential pyshcotheraputic potential of these compounds
+## Psychedelic Quotes is a site offering a random quote generator displaying quotes from professionals in the field of Psychiatry and Consciousness Research. As we are currently in the era of a psychedelic renaissance in regards to the re-evaluation of the psychotherapeutic potential of psychedelics, this site is offering quotes from researchers in this particular field.
 with a day and date feature, plus an image gallery.
 
 Features
