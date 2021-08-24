@@ -11,6 +11,11 @@ body {
  font-display: swap;
 
 }
+.intro{
+  font-weight: lighter;
+  text-align: center;
+}
+
 .header {
   font-weight: 400;
   font-style: normal;
