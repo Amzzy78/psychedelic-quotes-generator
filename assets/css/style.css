@@ -6,7 +6,7 @@
 }
 
 body {
- background-color: white;
+ background-color: black;
  font-family: ohno-blazeface, sans-serif;
  font-display: swap;
 
@@ -31,7 +31,7 @@ body {
   /*font-size: 30px;*/
   text-align: center;
   height: 680px;
-  background: url( ../images/Neon-Painted-Woman.jpg) 60vw;
+  background: url( ../images/neon-squares.jpg) 60vw;
   
 }
 
