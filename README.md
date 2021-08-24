@@ -14,10 +14,15 @@
    ### Site Logo and Heading 
    ![logo/heading](https://user-images.githubusercontent.com/62209464/130656485-8ebe98a1-e061-4855-b085-b6d502b65a4c.jpg)
  
+   ### Quote container
+   ![](https://user-images.githubusercontent.com/62209464/130657367-c2e836fd-b19c-47ac-b9cf-7a849c16e7b1.jpg)
 
-   The quote Area
-   The day and time area
-   The image area
+  ### Image Gallery
+  ![](https://user-images.githubusercontent.com/62209464/130657995-baac043c-165e-4f26-88ba-dd1c37e57a88.jpg)
+
+   ### The day and time container
+   ![](https://user-images.githubusercontent.com/62209464/130659035-2cc65002-1aa3-41d5-a0b8-31b9c438cb6e.jpg)
+  
    The () sections
 
  Features Left to Implement
