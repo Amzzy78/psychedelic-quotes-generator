@@ -1,7 +1,6 @@
 # Psychedelic Quotes
 
-## Psychedelic Quotes is a site offering a random quote generator displaying quotes from professionals in the field of Psychiatry and Consciousness Research. As we are currently in the era of a psychedelic renaissance in regards to the re-evaluation of the psychotherapeutic potential of psychedelics, this site is offering quotes from researchers in this particular field.
-with a day and date feature, plus an image gallery.
+## Psychedelic Quotes is a fun site offering a random quote generator displaying quotes mainly from professionals in the field of Psychiatry and Consciousness Research. As we are currently in the era of a psychedelic renaissance in regards to the re-evaluation of the psychotherapeutic potential of psychedelics, this site is offering quotes from the perspective of psychedlics as a medicine. This site is targeted towards Psychonauts. There is also an image gallery displaying some fun images, plus a day and date feature in the footer added purely for style to the page.
 
 Features
 -------------------------------

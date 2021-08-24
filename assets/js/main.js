@@ -83,7 +83,7 @@ let quotes = [
 
     {
         quoteText: '“Psychedelics are illegal not because a loving government is concerned that you may jump out of a third-story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.”',
-        quoteAuthor: 'Terence McKenna'
+        quoteAuthor: 'Terence McKenna',
     },
     {
         quoteText: '"I had found my ‘mission’ in life – to scientifically research these changing states of consciousness, and their potential value for humanity, and to integrate this knowledge into modern society."',
@@ -102,7 +102,7 @@ let quotes = [
 
     {
         quoteText: '"It is true that my discovery of LSD was a chance discovery, but it was the outcome of planned experiments and these experiments took place in the framework of systematic pharmaceutical, chemical research. It could better be described as serendipity."',
-        quoteAuthor: 'Dr. Albert Hofmann'
+        quoteAuthor: 'Dr. Albert Hofmann',
     },
     {
         quoteText:'“The modern person is drawn to the shamanic archetype—the vision of sacred earth, revelatory word, and multidimensional cosmos—finds himself horrified by contemporary society and the accelerating processes of global destruction it has unleashed.”',
