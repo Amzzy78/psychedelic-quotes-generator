@@ -22,13 +22,16 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
 
    The second sentence,‘Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy’ by Professor Stan Grof. Referenced - From Sacred Plants to Psychotherapy: The History and Re-Emergence of Psychedelics in Medicine By Dr. Ben Sessa.
 
+   The button within the quote generator triggers the random quotes which are held in an array in the js file and for the purpose of style their is also another array holding various colours that are also triggered by the button.This adds a colourful changing background with each new quote.
+
+
   ### Image Gallery
   ![](https://user-images.githubusercontent.com/62209464/130657995-baac043c-165e-4f26-88ba-dd1c37e57a88.jpg)
+  The images for the gallery are held in an array that are triggered by the previous and next button element.
 
    ### The day and time container
    ![](https://user-images.githubusercontent.com/62209464/130659035-2cc65002-1aa3-41d5-a0b8-31b9c438cb6e.jpg)
   
-   The () sections
 
  Features Left to Implement
  --------------------------------  
@@ -38,7 +41,7 @@ Made with HTML, CSS and JavaScript
 HTML:
 Create basic html structure.
 <header>
-Containing a div with a <h1>Psychedelic Quotes</h1> element displaying the title of the app.
+Containing a div with a <h1>Psychedelic Quotes</h1> element displaying the title of the site.
 
 
 Inside body tag create div with an id called container....... COME BACK TO THIS.......
