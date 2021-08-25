@@ -29,6 +29,16 @@ body {
 
 #logo {
   font-size: 40px;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .flex-container {
