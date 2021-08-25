@@ -10,13 +10,17 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
   -----------------
    ### Header Text Logo 
    ![logo](https://user-images.githubusercontent.com/62209464/130655179-3788cfeb-d2c7-428f-a048-961b2a46201e.jpg)
+   The text logo PSYCHEDLIC QUOTES in the header is a clickable link that refreshes the page which resets the quote generator to its default position. When hovering over the logo an underline appears to suggest it is a link.
 
    ### Heading
    ![logo/heading](https://user-images.githubusercontent.com/62209464/130656485-8ebe98a1-e061-4855-b085-b6d502b65a4c.jpg)
-   #### Heading introduction text is an excerpt form Michael Pollans book - How To Change Your Mind(The New Science of Psychedelics)
+   #### Heading introduction text is an excerpt from Michael Pollans book - How To Change Your Mind(The New Science of Psychedelics).
  
    ### Quote container
    ![](https://user-images.githubusercontent.com/62209464/130657367-c2e836fd-b19c-47ac-b9cf-7a849c16e7b1.jpg)
+   The first sentence of default text, Psychedelic Medicine: A re-emerging therapeutic paradigm, is is taken from the heading of an article by Kenneth W. Tupper, PhD, Evan Wood, MD PhD, Richard Yensen, PhD, and Matthew W. Johnson, PhD. It is referenced on the National Center for Biotechnology Information, U.S. National Library of Medicine website.
+
+   The second sentence,‘Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy’ by Professor Stan Grof. Referenced - From Sacred Plants to Psychotherapy: The History and Re-Emergence of Psychedelics in Medicine By Dr. Ben Sessa.
 
   ### Image Gallery
   ![](https://user-images.githubusercontent.com/62209464/130657995-baac043c-165e-4f26-88ba-dd1c37e57a88.jpg)
