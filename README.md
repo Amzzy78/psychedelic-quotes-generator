@@ -82,13 +82,29 @@ Adding <meta name="description"> boosted the SEO.
 HTML: 
 ![](https://user-images.githubusercontent.com/62209464/130991058-621a6843-758d-41f7-9c1c-e5f3c6caca29.png)
 CSS:
+![](https://user-images.githubusercontent.com/62209464/130996285-b146ec74-619c-4909-8f30-06624470d19f.png)
+JS:
+![](https://user-images.githubusercontent.com/62209464/130997650-80b155f9-3b16-45d1-baf5-b83f6da94eb4.png)
+Color Contrast Accessibility Validator:
+![](https://user-images.githubusercontent.com/62209464/130998702-7ede7c1c-319f-4775-856f-74de73694a48.png)
+Web Content Accessibility Guidelines (WCAG) 2.1 standards:
+![](https://user-images.githubusercontent.com/62209464/130998964-0107cce5-fe48-4e6a-b78f-3c3571f528d1.png)
 
-
-Unfixed Bugs
+### Unfixed Bugs
 --------------------------------------
+The suggestion on jshint: Two warnings
+86	['quoteText'] is better written in dot notation.
+87	['quoteAuthor'] is better written in dot notation.
+This I have tried to fix but I loose the link to the quotes. It needs to be corrected.
+There is also a latency sometimes with the array of colour changes in the quote generator and also with the quotes. I have not figured why yet.
 
-Deployment
+
+### Deployment
 -------------------------------------
+The site was deployed to GitHub pages. 
+The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab from the source section drop-down menu, select the Main Branch. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://amzzy78.github.io/psychedelic-quotes-generator/
 
 Credits
 -------------------------------------
@@ -98,8 +114,7 @@ Credits
    https://color.adobe.com/The-60s-color-theme-1704263/
    https://www.color-hex.com/color-palette/5784
 
-   Fonts credit:
-   https://www.fontspace.com/category/psychedelic
+   Font credit:
    https://fonts.adobe.com/fonts/ohno-blazeface
 
    quotes credit:
@@ -108,18 +123,19 @@ Credits
    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/
    https://www.vulture.com/2017/06/cary-grants-lsd-therapy-the-inside-story.html
    https://quotestats.com/topic/quotes-about-lsd/
+   https://michaelpollan.com/books/how-to-change-your-mind/
 
    Images
    -------------
    https://stock.adobe.com/ie/search/free?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=0&filters%5Bcontent_type%3Atemplate%5D=0&filters%5Bcontent_type%3A3d%5D=0&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bcontent_type%3Aimage%5D=1&filters%5Bfree_collection%5D=1&filters%5Border%5D=relevance&k=psychedelic&order=relevance&safe_search=1&search_type=asset-type-change&search_page=1&get_facets=0
 
-   hnml credits:
+   HTML credits:
    https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preload
    
-   css credits:
+   CSS credits:
    https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_responsive
 
-   js credit:
+   JS credit:
    learn-webdev-
    https://www.youtube.com/channel/UCCcK9DoXcPYcUYU2aSR7zzQ
 
