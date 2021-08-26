@@ -8,7 +8,7 @@
 body {
  background-color: black;
  font-family: ohno-blazeface, sans-serif;
- font-display: swap;
+ 
 
 }
 .intro{
@@ -44,7 +44,6 @@ a:hover {
 .flex-container {
   display: flex;
   flex-direction: row;
-  /*font-size: 30px;*/
   text-align: center;
   height: 680px;
   background: url( ../images/neon-squares.jpg) 60vw;
@@ -69,7 +68,6 @@ a:hover {
   width: 250px;
   font-size: 22px;
   font-family: ohno-blazeface, sans-serif;
-  font-display: swap;
   font-style: normal;
   background-color: whitesmoke;
   color: #6E31FF;
@@ -79,12 +77,9 @@ a:hover {
   margin: 25px auto;
   font-size: 26px;
   font-family: ohno-blazeface, sans-serif;
-  font-display: swap;
   font-style: oblique;
   color: black;
 }
-
-
 
 /* Gallery */
 #gallery {
@@ -117,7 +112,6 @@ a:hover {
 h2 {
   font-weight: lighter;
   text-align: center;
-  font-display: swap;
   color: #FFFFFF;
 }
 
@@ -142,7 +136,6 @@ h2 {
   justify-content: center;
   align-items: center;
   border: 5px solid #6E31FF;
-  font-display: swap;
   font-weight: 100;
   font-style: normal;
   color: #6E31FF;

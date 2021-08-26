@@ -77,8 +77,12 @@ Adding <meta name="description"> boosted the SEO.
 ### Desktop score:
 ![](https://user-images.githubusercontent.com/62209464/130985795-55cbb083-3caf-4ff9-926f-9b3382dbd87b.png)
 
-Validator Testing
+## Validator Testing
 --------------------------------------
+HTML: 
+![](https://user-images.githubusercontent.com/62209464/130991058-621a6843-758d-41f7-9c1c-e5f3c6caca29.png)
+CSS:
+
 
 Unfixed Bugs
 --------------------------------------
