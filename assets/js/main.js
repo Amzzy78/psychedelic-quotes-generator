@@ -85,7 +85,6 @@ btn.addEventListener('click', function () {
     let randomNumber = Math.floor(Math.random() * (quotes.length));
     let randomQuote = quotes[randomNumber]['quoteText'];
     let quoteAuthor = quotes[randomNumber]['quoteAuthor'];
-    //let quoteImage =  quotes[randomNumber]['quoteImage'];
 
     output.innerHTML = randomQuote + " " + quoteAuthor;
 
@@ -110,7 +109,7 @@ next.addEventListener('click', function(){
 
 });
 //prev btn
-previous.addEventListener('click', function(){
+prev.addEventListener('click', function(){
     i--;
    if(i < 0){
        i = arr.length - 1;
