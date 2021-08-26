@@ -108,7 +108,7 @@ next.addEventListener('click', function(){
    }
    document.getElementById('image').src = arr[i];
 
-})
+});
 //prev btn
 previous.addEventListener('click', function(){
     i--;
@@ -118,7 +118,7 @@ previous.addEventListener('click', function(){
     document.getElementById('image').src = arr[i];
     
 
-})
+});
 
 //Date and day elements
 
