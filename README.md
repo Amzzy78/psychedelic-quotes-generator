@@ -39,15 +39,26 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
    This was added as a style feature to the footer.
 
    ## Wireframes
-   1. Desktop: 
-   ![](https://github.com/Amzzy78/psychedelic-quotes-generator/commit/7590f3e05351a7fa8484244d7f5ef4fb00e557e8#commitcomment-55472320)
-   2. Mobile:
-   ![](https://github.com/Amzzy78/psychedelic-quotes-generator/commit/7590f3e05351a7fa8484244d7f5ef4fb00e557e8#commitcomment-55472484)
-  
+   1. Desktop
+
+   ![](https://user-images.githubusercontent.com/62209464/130970949-a012a0f3-b27e-4f3c-96ca-641b93d2ebc2.png)
+
+   2. Mobile
+
+   ![](https://user-images.githubusercontent.com/62209464/130971341-732ae8e2-27ae-46d9-bb9b-c14e60031d3b.jpg)
+
+   ## Design
+   --------------
+   ### Colour palette:
+   Based on the 60's colour scheme.
+   ### Typography:
+   Ohno Blazeface from Adobe fonts, also based on the psychedelic 60s typography.
+   ### Imagery:
+   Psychedelic inspired images from Adobe and resized in Photoshop.
 
  ## Features Left to Implement
  --------------------------------  
- Images of the authors to pop up with the quote within the quote generator.
+ Images of the authors to pop up with the quote within the quote generator. 
  
  ## Technologies 
  -------------------
@@ -56,30 +67,6 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
  3. JavaScript
 
 ----------------------------------
-CSS:
-Designed for mobile first using Flex containers and media queries.
-Style <header> using psychedelic font ohno-blazeface and colour palatte from a 60s theme by adobe.
-
-JS:
-
-How it works
------------------------------------
-
-
-Create the HTML and CSS layout
--------------------------------
-
-Source quote data
--------------------------------
-
-
-Analyze the data and apply it to js file
------------------------------------------
-
-Create the script
------------------------------------------
-
-
 ## Testing
 --------------------------------------
 Focused on improving the overall performance score by 
@@ -98,11 +85,11 @@ Credits
 -------------------------------------
    Content
    --------
-   colour palate credit:
+   Color palette credit:
    https://color.adobe.com/The-60s-color-theme-1704263/
    https://www.color-hex.com/color-palette/5784
 
-   fonts credit:
+   Fonts credit:
    https://www.fontspace.com/category/psychedelic
    https://fonts.adobe.com/fonts/ohno-blazeface
 
