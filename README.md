@@ -69,8 +69,13 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
 ----------------------------------
 ## Testing
 --------------------------------------
-Focused on improving the overall performance score by 
-Eliminating render-blocking resources which in particular had to do with the external typekit.
+### Lighthouse metrics:
+Focused on improving the overall performance score by eliminating render-blocking resources which in particular had to do with the external typekit and issues with preloading. Created a second css stylesheet with the Adobe typekit and linked in html. Followed suggestions by Lighthouse to improve score: Added <link rel="preload"> to css and js file in the header and <script...defer></script> in the body. This enabled the script to be downloaded in parallel to parsing the page, and executed after the page finished parsing.
+Adding <meta name="description"> boosted the SEO.
+### Mobile score:
+![](https://user-images.githubusercontent.com/62209464/130985851-6ae40980-254b-4ae4-9606-16f446b10e88.png)
+### Desktop score:
+![](https://user-images.githubusercontent.com/62209464/130985795-55cbb083-3caf-4ff9-926f-9b3382dbd87b.png)
 
 Validator Testing
 --------------------------------------
