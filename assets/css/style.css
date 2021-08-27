@@ -1,5 +1,6 @@
 @import url("https://use.typekit.net/tmj2lqy.css");
 
+
 * {
   box-sizing: border-box;
 
@@ -153,12 +154,12 @@ h2 {
 }
 
 #output1 {
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
 }
 
 #date {
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
 }
 
@@ -183,10 +184,11 @@ h2 {
 /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .intro {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
   }
   .flex-container {
     font-size: 20px;
+    max-height: fit-content;
   }
 }

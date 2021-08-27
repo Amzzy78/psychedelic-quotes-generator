@@ -76,11 +76,11 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
    ## Wireframes
    1. Desktop
 
-   ![](https://user-images.githubusercontent.com/62209464/130970949-a012a0f3-b27e-4f3c-96ca-641b93d2ebc2.png)
+   ![]()
 
    2. Mobile
 
-   ![](https://user-images.githubusercontent.com/62209464/130971341-732ae8e2-27ae-46d9-bb9b-c14e60031d3b.jpg)
+   ![](https://user-images.githubusercontent.com/62209464/131171421-8923cd1e-ecf5-48eb-8830-2a8bb31adf28.png)
 
 ## Testing
 --------------------------------------
@@ -109,12 +109,12 @@ Color Contrast Accessibility Validator:
 Web Content Accessibility Guidelines (WCAG) 2.1 standards:
 ![](https://user-images.githubusercontent.com/62209464/130998964-0107cce5-fe48-4e6a-b78f-3c3571f528d1.png)
 
-### Unfixed Bugs
+### Fixed Bugs
 --------------------------------------
 The suggestion on jshint: Two warnings
 86	['quoteText'] is better written in dot notation.
 87	['quoteAuthor'] is better written in dot notation.
-This I have tried to fix but I loose the link to the quotes. It needs to be corrected.
+Added preload first then link rel="dns-prefetch" to typekit to improve pageload speed as per lighthouse suggestion to speed up third party origins. This bumped up the performance score.
 There is also a latency sometimes with the array of colour changes in the quote generator and also with the quotes. I have not figured why yet.
 
  ## Features Left to Implement
