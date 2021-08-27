@@ -151,11 +151,34 @@ The live link can be found here - https://amzzy78.github.io/psychedelic-quotes-g
    1. https://thethirdwave.co/psychedelic-quotes/
    2. https://www.vulture.com/2017/06/cary-grants-lsd-therapy-the-inside-story.html
    3. https://quotestats.com/topic/quotes-about-lsd/
+   4. https://www.beckleyfoundation.org/amanda-feilding/?gclid=CjwKCAjwmqKJBhAWEiwAMvGt6BmpKWq9gPyqQmsVaaxSDHXIUIH7nHPlM6hI5WIDzTRw9KCcDQuP1xoCdoQQAvD_BwE
    
 
    Images
    -------------
    https://stock.adobe.com/ie/search/free?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=0&filters%5Bcontent_type%3Atemplate%5D=0&filters%5Bcontent_type%3A3d%5D=0&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bcontent_type%3Aimage%5D=1&filters%5Bfree_collection%5D=1&filters%5Border%5D=relevance&k=psychedelic&order=relevance&safe_search=1&search_type=asset-type-change&search_page=1&get_facets=0
+
+   https://www.beckleyfoundation.org/amanda-feilding/?gclid=CjwKCAjwmqKJBhAWEiwAMvGt6BmpKWq9gPyqQmsVaaxSDHXIUIH7nHPlM6hI5WIDzTRw9KCcDQuP1xoCdoQQAvD_BwE
+
+   https://www.worthpoint.com/worthopedia/gary-fisher-blotter-art-psychedelic-1933404763
+
+   https://en.wikipedia.org/wiki/Daniel_Pinchbeck
+
+   https://synergeticpress.com/blog/consciousness-and-psychedelics/bicycle-day-2019-and-the-history-of-lsd/
+
+   https://www.worthpoint.com/worthopedia/vintage-original-photo-sexy-roberta-119119409
+
+   https://www.wired.com/2002/09/professorx/
+
+   https://thetrilobitematronofprague.tumblr.com/post/628282724403281920/art-terence-kemp-mckenna-by-nicolas-rosenfeld
+
+   https://doubleblindmag.com/courses/microdosing/
+
+   https://plato.stanford.edu/entries/whitehead/
+
+   https://www.deviantart.com/jesstheninjapanda/art/Aldous-Huxley-Psychedelic-669584477
+
+   https://psychedelictimes.com/stan-grof-psychedelic-legacy-javier-charme/
 
    HTML credits:
 

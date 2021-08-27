@@ -21,75 +21,80 @@ let author = document.getElementById('author');
 let quotes = [{
         quoteText: '"Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy."',
         quoteAuthor: 'Professor Stanislav Grof',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/stan-grof.jpg',
 
     },
     {
         quoteText: '"I was seeing what Adam has seen on the morning of his creation – the miracle, moment by moment of naked existence."',
         quoteAuthor: 'Aldous Huxley',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Aldous-Huxley.jpg',
     },
     {
         quoteText: '"The rejection of any source of evidence is always treason to that ultimate rationalism which urges forward science and philosophy alike"',
         quoteAuthor: 'Alfred North Whitehead',
-        quoteImage: 'assets/images/mushys.jpg',
+        quoteImage: 'assets/images/Alfred-North-Whitehead.jpg',
     },
 
     {
         quoteText: '“The rule of thumb is the more profound the experience, the longer you should wait before doing it again. The Guild of Guides suggests a minimum of six months between entheogenic journeys because it takes at least that long for the learning and insights to be absorbed and integrated into your life.”',
         quoteAuthor: 'Dr.James Fadiman',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Dr.James-Fadiman.jpeg',
     },
 
     {
         quoteText: '"It gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation... I think that in human evolution it has never been as necessary to have this substance LSD. It is just a tool to turn us into what we are supposed to be."',
         quoteAuthor: 'Dr. Albert Hofmann',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Dr.Albert Hofmann.jpg',
 
     },
 
     {
         quoteText: '“Psychedelics are illegal not because a loving government is concerned that you may jump out of a third-story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.”',
         quoteAuthor: 'Terence McKenna',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Terence-McKenna.jpg',
     },
     {
         quoteText: '"I had found my ‘mission’ in life – to scientifically research these changing states of consciousness, and their potential value for humanity, and to integrate this knowledge into modern society."',
         quoteAuthor: 'Amanda Feilding',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Amanda-Fielding.jpg',
     },
 
     {
         quoteText: '“There is a wealth of information built into us … tucked away in the genetic material in every one of our cells … without some means of access, there is no way even to begin to guess at the extent and quality of what is there. The psychedelic drugs allow exploration of this interior world and insights into its nature.”',
         quoteAuthor: 'Professor Alexander Shulgin',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Professor-Alexander-Shulgin.jpg',
     },
 
     {
         quoteText: '“In regular Freudian therapy you get an intellectual change, but it doesn’t really change anything,” says Haynes. “What you get from LSD is an emotional change.”',
         quoteAuthor: 'Roberta Haynes',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/roberta-haynes.jpg',
     },
 
     {
         quoteText: '"It is true that my discovery of LSD was a chance discovery, but it was the outcome of planned experiments and these experiments took place in the framework of systematic pharmaceutical, chemical research. It could better be described as serendipity."',
         quoteAuthor: 'Dr. Albert Hofmann',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Dr.Albert Hofmann.jpg',
     },
     {
         quoteText: '“The modern person is drawn to the shamanic archetype—the vision of sacred earth, revelatory word, and multidimensional cosmos—finds himself horrified by contemporary society and the accelerating processes of global destruction it has unleashed.”',
         quoteAuthor: 'Daniel Pinchbeck',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Daniel_Pinchbeck.jpg',
     },
     {
         quoteText: '“With psychedelics, if you’re fortunate and break through, you understand what is truly of value in life. Material, power, dominance, and territory have no value. People wouldn’t fight wars, and the whole system we have currently would fall apart. People would become peaceful, loving citizens, not robots marching around in the dark with all their lights off.”',
         quoteAuthor: 'Gary Fisher',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/gary-fisher.jpg',
     },
     {
         quoteText: '"We are living through a mental health crisis. Existing treatments barely scratch the surface of the problem, and have not translated into real-world benefit for a huge number of people."',
         quoteAuthor: 'Amanda Feilding',
-        quoteImage: 'assets/images/squares.jpg',
+        quoteImage: 'assets/images/Amanda-Fielding.jpg',
+    },
+    {
+        quoteText: '“The best way to overcome the taboo, and re-integrate psychedelics into the fabric of society, is by undertaking the very best scientific research.”',
+        quoteAuthor: 'Amanda Feilding',
+        quoteImage: 'assets/images/Amanda-Fielding.jpg',
     }
 
 ];
