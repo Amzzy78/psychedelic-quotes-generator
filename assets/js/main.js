@@ -25,7 +25,7 @@ let quotes = [{
 
     },
     {
-        quoteText: '"I was seeing what Adam has seen on the morning of his creation – the miracle, moment by moment of naked existence."',
+        quoteText: '"The man who comes back through the Door in the Wall will never be quite the same as the man who went out. He will be wiser but less sure, happier but less self-satisfied, humbler in acknowledging his ignorance yet better equipped to understand the relationship of words to things, of systematic reasoning to the unfathomable mystery which it tries, forever vainly, to comprehend."',
         quoteAuthor: 'Aldous Huxley',
         quoteImage: 'assets/images/Aldous-Huxley.jpg',
     },

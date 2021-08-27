@@ -152,6 +152,7 @@ The live link can be found here - https://amzzy78.github.io/psychedelic-quotes-g
    2. https://www.vulture.com/2017/06/cary-grants-lsd-therapy-the-inside-story.html
    3. https://quotestats.com/topic/quotes-about-lsd/
    4. https://www.beckleyfoundation.org/amanda-feilding/?gclid=CjwKCAjwmqKJBhAWEiwAMvGt6BmpKWq9gPyqQmsVaaxSDHXIUIH7nHPlM6hI5WIDzTRw9KCcDQuP1xoCdoQQAvD_BwE
+   5. https://highexistence.com/aldous-huxley-quotes/
    
 
    Images
