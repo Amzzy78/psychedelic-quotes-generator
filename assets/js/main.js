@@ -56,7 +56,7 @@ let quotes = [{
     {
         quoteText: '"I had found my ‘mission’ in life – to scientifically research these changing states of consciousness, and their potential value for humanity, and to integrate this knowledge into modern society."',
         quoteAuthor: 'Amanda Feilding',
-        quoteImage: 'assets/images/Amanda-Fielding.jpg'
+        quoteImage: 'assets/images/amanda-fielding.jpeg'
     },
 
     {
@@ -73,10 +73,8 @@ let quotes = [{
     {
         quoteText: '“The best way to overcome the taboo, and re-integrate psychedelics into the fabric of society, is by undertaking the very best scientific research.”',
         quoteAuthor: 'Amanda Feilding',
-        quoteImage: 'assets/images/Amanda-Fielding.jpg'
+        quoteImage: 'assets/images/amanda-fielding.jpeg'
     },
-
-
     {
         quoteText: '"It is true that my discovery of LSD was a chance discovery, but it was the outcome of planned experiments and these experiments took place in the framework of systematic pharmaceutical, chemical research. It could better be described as serendipity."',
         quoteAuthor: 'Dr. Albert Hofmann',
@@ -95,7 +93,7 @@ let quotes = [{
     {
         quoteText: '"We are living through a mental health crisis. Existing treatments barely scratch the surface of the problem, and have not translated into real-world benefit for a huge number of people."',
         quoteAuthor: 'Amanda Feilding',
-        quoteImage: 'assets/images/Amanda-Fielding.jpg'
+        quoteImage: 'assets/images/amanda-fielding.jpeg'
     }
 
 ];
