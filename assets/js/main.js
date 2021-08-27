@@ -2,25 +2,23 @@
 let colors = ['#fd00ff', '#fdff00', '#00ff38', '#00f9ff', '#3c00ff'];
 //Get button
 let btn = document.getElementById('btn');
-//add event listener
+//Add event listener
 btn.addEventListener('click', function () {
-    //randomiser
+    //Randomiser
     var randomColor = colors[Math.floor(Math.random() * (colors.length))];
-    //get container
+    //Get container
     let container = document.getElementById('container');
 
     container.style.backgroundColor = randomColor;
-    //container.style.background = randomColor;
 
 });
 let output = document.getElementById('output');
 
 
 //Quotes array
-let quotes = [
-    {
+let quotes = [{
         quoteText: '"Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy."',
-        quoteAuthor: 'Professor Stanislav Grof',   
+        quoteAuthor: 'Professor Stanislav Grof',
 
     },
     {
@@ -28,7 +26,7 @@ let quotes = [
         quoteAuthor: 'Aldous Huxley',
     },
     {
-        quoteText:'"The rejection of any source of evidence is always treason to that ultimate rationalism which urges forward science and philosophy alike"',
+        quoteText: '"The rejection of any source of evidence is always treason to that ultimate rationalism which urges forward science and philosophy alike"',
         quoteAuthor: 'Alfred North Whitehead',
     },
 
@@ -40,7 +38,7 @@ let quotes = [
     {
         quoteText: '"It gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation... I think that in human evolution it has never been as necessary to have this substance LSD. It is just a tool to turn us into what we are supposed to be."',
         quoteAuthor: 'Dr. Albert Hofmann',
-        
+
     },
 
     {
@@ -67,11 +65,11 @@ let quotes = [
         quoteAuthor: 'Dr. Albert Hofmann',
     },
     {
-        quoteText:'“The modern person is drawn to the shamanic archetype—the vision of sacred earth, revelatory word, and multidimensional cosmos—finds himself horrified by contemporary society and the accelerating processes of global destruction it has unleashed.”',
+        quoteText: '“The modern person is drawn to the shamanic archetype—the vision of sacred earth, revelatory word, and multidimensional cosmos—finds himself horrified by contemporary society and the accelerating processes of global destruction it has unleashed.”',
         quoteAuthor: 'Daniel Pinchbeck',
     },
     {
-        quoteText:'“With psychedelics, if you’re fortunate and break through, you understand what is truly of value in life. Material, power, dominance, and territory have no value. People wouldn’t fight wars, and the whole system we have currently would fall apart. People would become peaceful, loving citizens, not robots marching around in the dark with all their lights off.”',
+        quoteText: '“With psychedelics, if you’re fortunate and break through, you understand what is truly of value in life. Material, power, dominance, and territory have no value. People wouldn’t fight wars, and the whole system we have currently would fall apart. People would become peaceful, loving citizens, not robots marching around in the dark with all their lights off.”',
         quoteAuthor: 'Gary Fisher',
     },
     {
@@ -91,7 +89,7 @@ btn.addEventListener('click', function () {
     console.log(randomQuote + " " + quoteAuthor);
 });
 
-//images
+//Images
 var prev = document.getElementById('previous');
 var next = document.getElementById('next');
 
@@ -99,23 +97,23 @@ var arr = ["assets/images/squares.jpg", "assets/images/mushys.jpg", "assets/imag
 
 var i = 0;
 
-//next btn
-next.addEventListener('click', function(){
-   i++;
-   if(i > arr.length - 1){
-      i = 0;
-   }
-   document.getElementById('image').src = arr[i];
+//Next btn
+next.addEventListener('click', function () {
+    i++;
+    if (i > arr.length - 1) {
+        i = 0;
+    }
+    document.getElementById('image').src = arr[i];
 
 });
-//prev btn
-prev.addEventListener('click', function(){
+//Prev btn
+prev.addEventListener('click', function () {
     i--;
-   if(i < 0){
-       i = arr.length - 1;
-   }
+    if (i < 0) {
+        i = arr.length - 1;
+    }
     document.getElementById('image').src = arr[i];
-    
+
 
 });
 
@@ -128,7 +126,7 @@ let d = new Date();
 let day = d.getDay();
 let ndate = d.toLocaleDateString();
 
-//switch function
+//Switch function
 switch (day) {
     case 0:
         day = "Sunday";
@@ -155,4 +153,3 @@ switch (day) {
 
 output1.innerHTML = day;
 date.innerHTML = ndate;
-

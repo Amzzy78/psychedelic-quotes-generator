@@ -2,21 +2,15 @@
 
 * {
   box-sizing: border-box;
-  
+
 }
 
 body {
- background-color: black;
- font-family: ohno-blazeface, sans-serif;
- 
-
-}
-.intro{
-  font-weight: lighter;
-  text-align: center;
-  font-size: 25px;
+  background-color: black;
+  font-family: ohno-blazeface, sans-serif;
 }
 
+/* Header */
 .header {
   font-weight: 400;
   font-style: normal;
@@ -41,16 +35,24 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Heading */
+.intro {
+  font-weight: lighter;
+  text-align: center;
+  font-size: 25px;
+}
+
+/* Main Container */
 .flex-container {
   display: flex;
   flex-direction: row;
   text-align: center;
   height: 680px;
-  background: url( ../images/neon-squares.jpg) 60vw;
-  
+  background: url(../images/neon-squares.jpg) 60vw;
+
 }
 
-/*Style quote generator and button*/
+/* Quote generator and button */
 
 #container {
   background-color: #6E31FF;
@@ -95,7 +97,7 @@ a:hover {
   height: 270px;
   width: 270px;
   border-radius: 50%;
-  
+
 }
 
 .btn2 {
@@ -105,8 +107,6 @@ a:hover {
   margin: 20px;
   background-color: #87FF6C;
   font-family: ohno-blazeface, sans-serif;
-
-  
 }
 
 h2 {
@@ -115,7 +115,7 @@ h2 {
   color: #FFFFFF;
 }
 
-/* Footer with Date  and time item*/
+/* Footer with Date  and time object */
 
 .footer {
   background-color: #6E31FF;
@@ -151,13 +151,17 @@ h2 {
   text-align: center;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
+/* Media Queries */
 @media screen and (max-width: 800px) {
-  .flex-container, .header, .container {
+
+  .flex-container,
+  .header,
+  .container {
     flex: 100%;
     max-width: 100%;
   }
-  #gallery{
+
+  #gallery {
     flex: 100%;
     max-width: 100%;
 
