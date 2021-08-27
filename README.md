@@ -1,7 +1,7 @@
 # Psychedelic Quotes
 Welcome! https://amzzy78.github.io/psychedelic-quotes-generator/
 
-Psychedelic Quotes is a fun site offering a random quote generator displaying quotes mainly from professionals in the field of Psychiatry and Consciousness Research. As we are now in the era of a psychedelic renaissance in regards to the re-evaluation of the psychotherapeutic potential of psychedelics, this site is offering quotes from the perspective of psychedelics as a medicine and tool for the  psyche. The site targets Psychonauts and curious folk. There is also an image gallery displaying some fun images, plus a day and date feature in the footer added purely for style to the page. The site is designed to be responsive and assessible across various devices.
+Psychedelic Quotes is a fun site offering a random quote generator displaying quotes mainly from professionals in the field of Psychiatry and Consciousness Research. As we are now in the era of a psychedelic renaissance in regards to the re-evaluation of the psychotherapeutic potential of psychedelics, this site is offering quotes from the perspective of psychedelics as a medicine and tool for the  psyche. The site targets Psychonauts and curious folk interested in the subject matter. There is also an image gallery displaying some fun images, plus a day and date feature in the footer added purely for style to the page. The site is designed to be responsive and assessible across various devices.
 ![Responsive Mockup](https://user-images.githubusercontent.com/62209464/130655139-0dd3405e-b850-4d9d-8878-640b96218ace.jpg)
 
 # User Experience (UX)
@@ -64,15 +64,6 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
    ![](https://user-images.githubusercontent.com/62209464/130659035-2cc65002-1aa3-41d5-a0b8-31b9c438cb6e.jpg)
    This was added as a style feature to the footer.
 
-   ## Wireframes
-   1. Desktop
-
-   ![](https://user-images.githubusercontent.com/62209464/130970949-a012a0f3-b27e-4f3c-96ca-641b93d2ebc2.png)
-
-   2. Mobile
-
-   ![](https://user-images.githubusercontent.com/62209464/130971341-732ae8e2-27ae-46d9-bb9b-c14e60031d3b.jpg)
-
    ## Design
    --------------
    ### Colour palette:
@@ -82,23 +73,22 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
    ### Imagery:
    Psychedelic inspired images from Adobe and resized in Photoshop.
 
- ## Features Left to Implement
- --------------------------------  
- Images of the authors to pop up with the quote within the quote generator. 
- 
- ## Technologies 
- -------------------
- 1. HTML
- 2. CSS
- 3. JavaScript
+   ## Wireframes
+   1. Desktop
 
-----------------------------------
+   ![](https://user-images.githubusercontent.com/62209464/130970949-a012a0f3-b27e-4f3c-96ca-641b93d2ebc2.png)
+
+   2. Mobile
+
+   ![](https://user-images.githubusercontent.com/62209464/130971341-732ae8e2-27ae-46d9-bb9b-c14e60031d3b.jpg)
+
 ## Testing
 --------------------------------------
 ### Unicorn Revealer:
-This dev tool helped in revealing where there was overflow from the image gallery container which was affecting the responsive layout on the iPhone 5/SE.
+This dev tool helped in revealing where there was overflow from the image gallery container which was affecting the responsive layout on the iPhone 5/SE. 
 ### Lighthouse metrics:
 Focused on improving the overall performance score by eliminating render-blocking resources which in particular had to do with the external typekit and issues with preloading. Created a second css stylesheet with the Adobe typekit and linked in html. Followed suggestions by Lighthouse to improve score: Added <link rel="preload"> to css and js file in the header and <script...defer></script> in the body. This enabled the script to be downloaded in parallel to parsing the page, and executed after the page finished parsing.
+
 
 Added meta name="description" in html header which boosted the SEO.
 ### Mobile score:
@@ -127,8 +117,13 @@ The suggestion on jshint: Two warnings
 This I have tried to fix but I loose the link to the quotes. It needs to be corrected.
 There is also a latency sometimes with the array of colour changes in the quote generator and also with the quotes. I have not figured why yet.
 
+ ## Features Left to Implement
+ --------------------------------  
+ Images of the authors to pop up with the quote within the quote generator. 
 
-### Deployment
+
+
+## Deployment
 -------------------------------------
 The site was deployed to GitHub pages. 
 The steps to deploy are as follows:
@@ -193,19 +188,13 @@ The live link can be found here - https://amzzy78.github.io/psychedelic-quotes-g
 
    https://stackoverflow.com/questions/51040453/javascript-random-quote-and-authors-array
 
-   
+    ## Technologies 
+   -------------------
+   1. HTML
+   2. CSS
+   3. JavaScript
+
+----------------------------------
 
 
-
-
-
-
-   Media
-   ------
-
-Other General Project Advice
---------------------------------------   
-
-
-Conclusions and future direction
------------------------------------------
+  
