@@ -76,7 +76,7 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
    ## Wireframes
    1. Desktop
 
-   ![]()
+   ![](https://user-images.githubusercontent.com/62209464/131172563-b96c0421-c3ef-416e-87fc-dd980efc8363.png)
 
    2. Mobile
 
@@ -103,7 +103,7 @@ HTML:
 CSS:
 ![](https://user-images.githubusercontent.com/62209464/130996285-b146ec74-619c-4909-8f30-06624470d19f.png)
 JS:
-![](https://user-images.githubusercontent.com/62209464/130997650-80b155f9-3b16-45d1-baf5-b83f6da94eb4.png)
+![](https://user-images.githubusercontent.com/62209464/131172727-2f1d4899-c196-4e20-bab9-67c8c57e6206.png)
 Color Contrast Accessibility Validator:
 ![](https://user-images.githubusercontent.com/62209464/130998702-7ede7c1c-319f-4775-856f-74de73694a48.png)
 Web Content Accessibility Guidelines (WCAG) 2.1 standards:
