@@ -92,9 +92,9 @@ Focused on improving the overall performance score by eliminating render-blockin
 
 Added meta name="description" in html header which boosted the SEO.
 ### Mobile score:
-![](https://user-images.githubusercontent.com/62209464/130985851-6ae40980-254b-4ae4-9606-16f446b10e88.png)
+![](https://user-images.githubusercontent.com/62209464/131175152-b629ecc3-a348-4233-99d8-0ad72179084a.png)
 ### Desktop score:
-![](https://user-images.githubusercontent.com/62209464/130985795-55cbb083-3caf-4ff9-926f-9b3382dbd87b.png)
+![](https://user-images.githubusercontent.com/62209464/131175129-b2bf58b1-7d54-4096-aca1-60d5b5f70c3d.png)
 
 ## Validator Testing
 --------------------------------------
