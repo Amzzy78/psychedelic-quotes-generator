@@ -68,8 +68,14 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
    --------------
    ### Colour palette:
    Based on the 60's colour scheme.
+   ![](https://user-images.githubusercontent.com/62209464/131177633-6d85bbe0-0bd3-4a69-824f-8b79e3db01fa.jpg)
+
+   Quotes colour array.
+   ![](https://user-images.githubusercontent.com/62209464/131177655-4f1b27a3-042c-4da9-a9c7-51fb10ab3197.jpg)
+   
    ### Typography:
    Ohno Blazeface from Adobe fonts, also based on the psychedelic 60s typography.
+   ![](https://user-images.githubusercontent.com/62209464/131178240-ce72cd64-5234-4032-99a6-bf3e2174f7da.jpg)
    ### Imagery:
    Psychedelic inspired images from Adobe and resized in Photoshop.
 
