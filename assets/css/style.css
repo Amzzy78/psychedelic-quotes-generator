@@ -163,7 +163,7 @@ h2 {
 }
 
 /* Media Queries */
-@media screen and (max-width: 800px) {
+/*@media screen and (max-width: 800px) {
 
   .flex-container,
   .header,
@@ -178,12 +178,15 @@ h2 {
 
   }
 
-}
+}*/
 
 /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .intro {
     font-size: 10px;
     text-align: center;
+  }
+  .flex-container {
+    font-size: 20px;
   }
 }

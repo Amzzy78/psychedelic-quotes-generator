@@ -70,6 +70,12 @@ let quotes = [{
         quoteAuthor: 'Roberta Haynes',
         quoteImage: 'assets/images/roberta-haynes.jpg'
     },
+    {
+        quoteText: '“The best way to overcome the taboo, and re-integrate psychedelics into the fabric of society, is by undertaking the very best scientific research.”',
+        quoteAuthor: 'Amanda Feilding',
+        quoteImage: 'assets/images/Amanda-Fielding.jpg'
+    },
+
 
     {
         quoteText: '"It is true that my discovery of LSD was a chance discovery, but it was the outcome of planned experiments and these experiments took place in the framework of systematic pharmaceutical, chemical research. It could better be described as serendipity."',
@@ -90,11 +96,6 @@ let quotes = [{
         quoteText: '"We are living through a mental health crisis. Existing treatments barely scratch the surface of the problem, and have not translated into real-world benefit for a huge number of people."',
         quoteAuthor: 'Amanda Feilding',
         quoteImage: 'assets/images/Amanda-Fielding.jpg'
-    },
-    {
-        quoteText: '“The best way to overcome the taboo, and re-integrate psychedelics into the fabric of society, is by undertaking the very best scientific research.”',
-        quoteAuthor: 'Amanda Feilding',
-        quoteImage: 'assets/images/Amanda-Fielding.jpg'
     }
 
 ];
@@ -110,7 +111,6 @@ btn.addEventListener('click', function () {
 
     quoteSrc.src = quoteImage;
 
-    console.log(randomQuote + " " + quoteAuthor); //cut out
 });
 
 //Images
