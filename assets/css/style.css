@@ -177,4 +177,13 @@ h2 {
     max-width: 100%;
 
   }
+
+}
+
+/* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .intro {
+    font-size: 10px;
+    text-align: center;
+  }
 }
