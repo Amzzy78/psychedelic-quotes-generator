@@ -47,7 +47,7 @@ Psychedelic Quotes is a fun site offering a random quote generator displaying qu
 
  
    ### Quote container
-   ![](https://user-images.githubusercontent.com/62209464/130657367-c2e836fd-b19c-47ac-b9cf-7a849c16e7b1.jpg)<br>
+   ![](https://user-images.githubusercontent.com/62209464/131216433-9278cb3b-b593-411d-a033-2ef6fc27d299.png)<br>
    The first sentence of default text, Psychedelic Medicine: A re-emerging therapeutic paradigm, is is taken from the heading of an article by Kenneth W. Tupper, PhD, Evan Wood, MD PhD, Richard Yensen, PhD, and Matthew W. Johnson, PhD. It is referenced on the National Center for Biotechnology Information, U.S. National Library of Medicine website.
 
    The second sentence,‘Psychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope is for biology and medicine or the telescope is for astronomy’ by Professor Stan Grof. Referenced - From Sacred Plants to Psychotherapy: The History and Re-Emergence of Psychedelics in Medicine By Dr. Ben Sessa.
