@@ -1,10 +1,10 @@
 //Colors array to quotes container
 let colors = ['#fd00ff', '#fdff00', '#00ff38', '#00f9ff', '#3c00ff'];
-//Get button
+//Get element by id
 let btn = document.getElementById('btn');
-//Add event listener
+//Add click event to button
 btn.addEventListener('click', function () {
-    //Randomiser
+    //Randomiser of colours when button clicked
     var randomColor = colors[Math.floor(Math.random() * (colors.length))];
     //Get container
     let container = document.getElementById('container');
@@ -12,6 +12,7 @@ btn.addEventListener('click', function () {
     container.style.backgroundColor = randomColor;
 
 });
+//Locate the outputs of quoteText, quoteImage and quoteAuthor by id
 let output = document.getElementById('output');
 let quoteSrc = document.getElementById('quote-image');
 let author = document.getElementById('author');
@@ -97,7 +98,7 @@ let quotes = [{
     }
 
 ];
-
+//When the btn is clicked fetch all outputs assigned to object and randomise
 btn.addEventListener('click', function () {
     let randomNumber = Math.floor(Math.random() * (quotes.length));
     let randomQuote = quotes[randomNumber].quoteText;
@@ -106,12 +107,11 @@ btn.addEventListener('click', function () {
 
     output.innerHTML = randomQuote;
     author.innerHTML = quoteAuthor;
-
     quoteSrc.src = quoteImage;
 
 });
 
-//Images
+//Images held in array to be fetched via the prev and nect buttons
 var prev = document.getElementById('previous');
 var next = document.getElementById('next');
 
