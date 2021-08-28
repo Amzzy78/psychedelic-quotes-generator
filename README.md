@@ -1,5 +1,5 @@
 # Psychedelic Quotes
-Welcome! https://amzzy78.github.io/psychedelic-quotes-generator/
+Welcome! 
 
 Psychedelic Quotes is a fun site offering a random quote generator displaying quotes mainly from professionals in the field of Psychiatry and Consciousness Research. As we are now in the era of a psychedelic renaissance in regards to the re-evaluation of the psychotherapeutic potential of psychedelics, this site is offering quotes from the perspective of psychedelics as a medicine and tool for the psyche. The site targets Psychonauts and curious folk interested in the subject matter. There is also an image gallery displaying some fun images, plus a day and date feature in the footer added purely for style to the page. The site is designed to be responsive and assessible across various devices. The design of the site is also intentionally bold and loud with a psychedelic theme in colours, font and images.
 ![Responsive Mockup](https://user-images.githubusercontent.com/62209464/131177119-833ddd17-0e25-43a1-856b-a7bb79b17d43.jpg)
@@ -136,7 +136,7 @@ There is also at times a latency with the array of colour changes in the quote g
 The site was deployed to GitHub pages. 
 The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab from the source section drop-down menu, select the Main Branch. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://amzzy78.github.io/psychedelic-quotes-generator/
+The live link can be found here - 
 
 ### Credits
 -------------------------------------
